@@ -3,12 +3,11 @@ h1{color:red;
   font-weight:bold;
   font-size: 70px;}
 
-}
 .image {
-    background-image: url("images/the-flatiron-building.png")
-   width: 100%;
-text-align: center;
-  }
-  p{
-    font-align: center;
+  background-image: url("resources/images/the-flatiron-building.png");
+  width: 100%;
+text-align: center;  }
+
+ h2, h3, div, p{
+    text-align: center;
   }
