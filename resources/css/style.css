@@ -1,9 +1,9 @@
 
 h1{color:red;
   font-weight:bold;
-  font-size: 70px;}
+  font-size: 70px;
 
-.image {
+
   background-image: url("resources/images/the-flatiron-building.png");
   width: 100%;
 text-align: center;  }
