@@ -1,12 +1,14 @@
-h1{
 
+h1{color:red;
   font-weight:bold;
   font-size: 70px;}
 
 }
 .image {
-   position: relative;
+    background-image: url("images/the-flatiron-building.png")
    width: 100%;
-
-    text-align: center;
-    color: white;}
+text-align: center;
+  }
+  p{
+    font-align: center;
+  }
